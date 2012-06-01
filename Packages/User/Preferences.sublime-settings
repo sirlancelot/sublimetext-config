@@ -1,9 +1,13 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	 "auto_complete_delay": 100
+	,"caret_style": "phase"
 
-	"font_face": "Ubuntu Mono",
-	"font_size": 9,
+	,"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme"
+	,"font_face": "Ubuntu Mono"
+	,"font_size": 9
 
 	// Don't ignore the "Vintage" package
-	"ignored_packages": []
+	,"ignored_packages": []
+
+	,"margin": 0
 }
