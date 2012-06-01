@@ -1,0 +1,3 @@
+[submodule "Packages/Git"]
+	path = Packages/Git
+	url = https://github.com/kemayo/sublime-text-2-git
