@@ -2,11 +2,13 @@
 	 "auto_complete_delay": 100
 	,"caret_style": "phase"
 
-	,"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme"
+	,"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme"
 	,"font_size": 9
 
 	// Don't ignore the "Vintage" package
 	,"ignored_packages": []
 
 	,"margin": 0
+
+	,"theme": "Nil.sublime-theme"
 }
