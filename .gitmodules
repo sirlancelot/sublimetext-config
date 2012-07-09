@@ -1,9 +1,9 @@
 [submodule "Packages/Git"]
 	path = Packages/Git
 	url = https://github.com/kemayo/sublime-text-2-git
-[submodule "Packages/Theme - Nil"]
-	path = Packages/Theme - Nil
-	url = https://github.com/nilium/st2-nil-theme
 [submodule "Packages/JsFormat"]
 	path = Packages/JsFormat
 	url = https://github.com/jdc0589/JsFormat
+[submodule "Packages/Theme - Soda"]
+	path = Packages/Theme - Soda
+	url = https://github.com/buymeasoda/soda-theme
