@@ -7,3 +7,6 @@
 [submodule "Packages/Theme - Soda"]
 	path = Packages/Theme - Soda
 	url = https://github.com/buymeasoda/soda-theme
+[submodule "Packages/LESS-build"]
+	path = Packages/LESS-build
+	url = https://github.com/sirlancelot/LESS-build-sublime
