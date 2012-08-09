@@ -2,14 +2,16 @@
 //
 // When Sublime makes edits, all formatting will be lost.
 {
-	 "auto_complete_delay": 100
-	,"caret_style": "phase"
-	,"highlight_modified_tabs": true
-
-	,"color_scheme": "Packages/Monokai Soda.tmTheme"
+	// Editing Visuals
+	 "caret_style": "phase"
 	,"font_size": 9
-
+	,"highlight_modified_tabs": true
 	,"margin": 0
 
+	// Theme
+	,"color_scheme": "Packages/Monokai Soda.tmTheme"
 	,"theme": "Soda Dark.sublime-theme"
+
+	// Behavior
+	,"auto_complete_delay": 100
 }
