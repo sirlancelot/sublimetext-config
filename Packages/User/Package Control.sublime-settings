@@ -1,4 +1,5 @@
 {
+	"auto_upgrade_frequency": 24,
 	"auto_upgrade_last_run": 0,
 	"installed_packages":
 	[
