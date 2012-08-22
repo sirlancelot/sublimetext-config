@@ -4,7 +4,3 @@
 Backup/
 Pristine Packages/
 Settings/
-
-# Don't track Package Control Packages
-Packages/Package Control/
-Packages/Tag/

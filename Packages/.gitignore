@@ -1,0 +1,5 @@
+# Don't track Package Control Packages
+/AutoFileName/
+/FileDiffs/
+/Package Control/
+/Tag/

@@ -2,6 +2,8 @@
 	"auto_upgrade_last_run": 0,
 	"installed_packages":
 	[
+		"AutoFileName",
+		"FileDiffs",
 		"Package Control",
 		"Tag"
 	]
