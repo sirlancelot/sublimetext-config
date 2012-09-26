@@ -10,3 +10,6 @@
 [submodule "Packages/LESS-build"]
 	path = Packages/LESS-build
 	url = https://github.com/sirlancelot/LESS-build-sublime
+[submodule "Packages/ApacheConf"]
+	path = Packages/ApacheConf
+	url = https://github.com/colinta/ApacheConf.tmLanguage
