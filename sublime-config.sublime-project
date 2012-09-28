@@ -5,6 +5,17 @@
 			"path": ".git"
 		},
 		{
+			"file_exclude_patterns":
+			[
+				"sublime-config.sublime-project",
+				"sublime-config.sublime-workspace"
+			],
+			"folder_exclude_patterns":
+			[
+				"Pristine Packages",
+				"Settings"
+			],
+			"name": "Sublime Text 2",
 			"path": "."
 		}
 	],
@@ -16,5 +27,14 @@
 		"detect_indentation": true,
 		"auto_indent": true,
 		"smart_indent": true
-	}
+	},
+	"build_systems":
+	[
+		{
+			"name": "(Project) update-submodules.sh",
+			"cmd": [ "${project_path:${folder}}/update-submodules.sh" ],
+			"working_dir": "${project_path:${folder}}",
+			"shell": true
+		}
+	]
 }
