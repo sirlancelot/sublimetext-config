@@ -8,7 +8,8 @@
 			"file_exclude_patterns":
 			[
 				"sublime-config.sublime-project",
-				"sublime-config.sublime-workspace"
+				"sublime-config.sublime-workspace",
+				"*.cache"
 			],
 			"folder_exclude_patterns":
 			[
