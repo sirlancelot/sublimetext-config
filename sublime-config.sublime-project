@@ -18,6 +18,10 @@
 			],
 			"name": "Sublime Text 2",
 			"path": "."
+		},
+		{
+			"name": "User Package",
+			"path": "Packages/User/"
 		}
 	],
 	"settings":
