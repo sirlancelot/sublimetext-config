@@ -1,6 +1,7 @@
 *.cache
 *.pyc
 *.sublime-workspace
+*.last-run
 
 Backup/
 Pristine Packages/
