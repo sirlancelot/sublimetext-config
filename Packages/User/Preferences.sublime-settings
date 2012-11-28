@@ -4,12 +4,13 @@
 {
 	// Editing Visuals
 	 "caret_style": "phase"
+	,"font_face": "Source Code Pro"
 	,"font_size": 9
 	,"highlight_modified_tabs": true
 	,"margin": 0
 
 	// Theme
-	,"color_scheme": "Packages/Monokai Soda.tmTheme"
+	,"color_scheme": "Packages/Color Scheme - Daylerees/Snappy.tmTheme"
 	,"theme": "Soda Dark.sublime-theme"
 
 	// Behavior
