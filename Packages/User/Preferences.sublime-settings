@@ -1,6 +1,5 @@
-// DO NOT ALLOW SUBLIME TO EDIT THIS FILE
-//
-// When Sublime makes edits, all formatting will be lost.
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
 {
 	// Editing Visuals
 	 "caret_style": "phase"
