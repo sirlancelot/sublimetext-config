@@ -2,7 +2,6 @@
 	"auto_upgrade_frequency": 24,
 	"installed_packages":
 	[
-		"FileDiffs",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PlainTasks",
