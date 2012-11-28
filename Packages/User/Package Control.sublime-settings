@@ -3,7 +3,6 @@
 	"installed_packages":
 	[
 		"Nettuts+ Fetch",
-		"Package Control",
-		"Tag"
+		"Package Control"
 	]
 }
