@@ -20,6 +20,7 @@ The Obligatory.
 	-	[Git](https://github.com/kemayo/sublime-text-2-git)
 	-	[JsFormat](https://github.com/jdc0589/JsFormat)
 	-	[LESS-build](https://github.com/sirlancelot/LESS-build-sublime)
+	-	[LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2)
 	-	[Tag](https://github.com/SublimeText/Tag)
 	-	[Theme - Soda](https://github.com/buymeasoda/soda-theme)
 

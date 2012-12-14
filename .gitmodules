@@ -22,3 +22,6 @@
 [submodule "Packages/Tag"]
 	path = Packages/Tag
 	url = https://github.com/SublimeText/Tag
+[submodule "Packages/LiveReload"]
+	path = Packages/LiveReload
+	url = https://github.com/dz0ny/LiveReload-sublimetext2
