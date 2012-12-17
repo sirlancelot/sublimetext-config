@@ -1,4 +1,7 @@
 [
+	{ "keys": ["alt+f9"], "command": "permute_lines", "args": {"operation": "unique"} },
+
+	// Split-window placement keys
 	{
 		"keys": ["super+alt+left"],
 		"command": "set_layout",
@@ -39,6 +42,7 @@
 			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
 		}
 	},
+	// Move files to a new window
 	{ "keys": ["ctrl+shift+left"], "command": "move_to_group", "args": { "group": 0 } },
 	{ "keys": ["ctrl+shift+right"], "command": "move_to_group", "args": { "group": 1 } }
 ]
