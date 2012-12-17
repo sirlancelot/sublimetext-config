@@ -17,6 +17,7 @@ The Obligatory.
 	-	[ApacheConf](https://github.com/colinta/ApacheConf.tmLanguage)
 	-	[AutoFileName](https://github.com/BoundInCode/AutoFileName)
 	-	[Color Scheme - Daylerees](https://github.com/daylerees/colour-schemes)
+	-	[Emmet](https://github.com/sergeche/emmet-sublime)
 	-	[Git](https://github.com/kemayo/sublime-text-2-git)
 	-	[JsFormat](https://github.com/jdc0589/JsFormat)
 	-	[LESS-build](https://github.com/sirlancelot/LESS-build-sublime)

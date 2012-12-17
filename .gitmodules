@@ -25,3 +25,6 @@
 [submodule "Packages/LiveReload"]
 	path = Packages/LiveReload
 	url = https://github.com/dz0ny/LiveReload-sublimetext2
+[submodule "Packages/Emmet"]
+	path = Packages/Emmet
+	url = https://github.com/sergeche/emmet-sublime
