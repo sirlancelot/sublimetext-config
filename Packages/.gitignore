@@ -1,0 +1,6 @@
+# Don't track Package Control Packages
+/Nettuts+ Fetch/
+/Package Control/
+
+# PyV8 Package is controlled by Emmet
+/PyV8/
