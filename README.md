@@ -1,7 +1,3 @@
-# Sublime Text 2 Configuration
-
-The Obligatory.
-
 ## Installed Packages
 
 -	**via Package Control**
