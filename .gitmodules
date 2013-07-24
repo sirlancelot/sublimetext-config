@@ -4,9 +4,6 @@
 [submodule "Packages/JsFormat"]
 	path = Packages/JsFormat
 	url = https://github.com/jdc0589/JsFormat
-[submodule "Packages/Theme - Soda"]
-	path = Packages/Theme - Soda
-	url = https://github.com/buymeasoda/soda-theme
 [submodule "Packages/LESS-build"]
 	path = Packages/LESS-build
 	url = https://github.com/sirlancelot/LESS-build-sublime
@@ -28,3 +25,6 @@
 [submodule "Packages/Emmet"]
 	path = Packages/Emmet
 	url = https://github.com/sergeche/emmet-sublime
+[submodule "Packages/Theme - Centurion"]
+	path = Packages/Theme - Centurion
+	url = https://github.com/allanhortle/Centurion
