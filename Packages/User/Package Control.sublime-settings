@@ -1,8 +1,10 @@
 {
 	"auto_upgrade_frequency": 24,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Nettuts+ Fetch",
-		"Package Control"
+		"Package Control",
+		"PHP-Twig"
 	]
 }

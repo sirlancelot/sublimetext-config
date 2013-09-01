@@ -1,8 +1,8 @@
 {
 	"files":
 	{
-		"jQuery: Source": "http://code.jquery.com/jquery.js",
-		"jQuery: Minified": "http://code.jquery.com/jquery.min.js"
+		"jQuery: Minified": "http://code.jquery.com/jquery.min.js",
+		"jQuery: Source": "http://code.jquery.com/jquery.js"
 	},
 	"packages":
 	{
