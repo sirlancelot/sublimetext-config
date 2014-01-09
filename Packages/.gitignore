@@ -1,6 +1,8 @@
 # Don't track Package Control Packages
+/Alignment/
 /Nettuts+ Fetch/
 /Package Control/
+/VBScript/
 
 # PyV8 Package is controlled by Emmet
 /PyV8/
