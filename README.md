@@ -5,7 +5,9 @@
 	I'm using [Package Control][] to add packages that don't have a Git 
 	Repository.
 
+	-	[Alignment][]
 	-	[Nettuts+ Fetch][Fetch]
+	-	[VBScript][]
 
 -	**via Git Submodules**
 
@@ -15,12 +17,10 @@
 
 	-	[ApacheConf](https://github.com/colinta/ApacheConf.tmLanguage)
 	-	[AutoFileName](https://github.com/BoundInCode/AutoFileName)
-	-	[Color Scheme - Daylerees](https://github.com/daylerees/colour-schemes)
 	-	[Emmet](https://github.com/sergeche/emmet-sublime)
 	-	[Git](https://github.com/kemayo/sublime-text-2-git)
 	-	[JsFormat](https://github.com/jdc0589/JsFormat)
 	-	[LESS-build](https://github.com/sirlancelot/LESS-build-sublime)
-	-	[LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2)
 	-	[Tag](https://github.com/SublimeText/Tag)
 	-	[Theme - Centurion](https://github.com/allanhortle/Centurion)
 
@@ -37,4 +37,6 @@ Sublime. Just open up `Packages/User/Preferences.sublime-settings`, comment
 out the "Package Control" line and save. Sublime will load it automatically.
 
   [Package Control]: http://wbond.net/sublime_packages/package_control
+  [Alignment]: http://wbond.net/sublime_packages/alignment
   [Fetch]: http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/
+  [VBScript]: https://sublime.wbond.net/packages/VBScript
