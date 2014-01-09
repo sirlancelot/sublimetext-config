@@ -10,9 +10,6 @@
 [submodule "Packages/ApacheConf"]
 	path = Packages/ApacheConf
 	url = https://github.com/colinta/ApacheConf.tmLanguage
-[submodule "Packages/Color Scheme - Daylerees"]
-	path = Packages/Color Scheme - Daylerees
-	url = https://github.com/daylerees/colour-schemes
 [submodule "Packages/AutoFileName"]
 	path = Packages/AutoFileName
 	url = https://github.com/BoundInCode/AutoFileName
