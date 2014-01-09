@@ -7,6 +7,7 @@
 
 	-	[Alignment][]
 	-	[Nettuts+ Fetch][Fetch]
+	-	[PHP-Twig][]
 	-	[VBScript][]
 
 -	**via Git Submodules**
@@ -39,4 +40,5 @@ out the "Package Control" line and save. Sublime will load it automatically.
   [Package Control]: http://wbond.net/sublime_packages/package_control
   [Alignment]: http://wbond.net/sublime_packages/alignment
   [Fetch]: http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/
+  [PHP-Twig]: https://sublime.wbond.net/packages/PHP-Twig
   [VBScript]: https://sublime.wbond.net/packages/VBScript
