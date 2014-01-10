@@ -11,12 +11,7 @@
 				,"sublime-config.sublime-workspace"
 				,"*.cache"
 			],
-			"folder_exclude_patterns":
-			[
-				 "Pristine Packages"
-				,"Settings"
-			],
-			 "name": "Sublime Text 2"
+			 "name": "Sublime Text 3"
 			,"path": "."
 		},
 		{
@@ -32,14 +27,5 @@
 		,"tab_size": 4
 		,"translate_tabs_to_spaces": false
 		,"use_tab_stops": true
-	},
-	"build_systems":
-	[
-		{
-			 "name": "(Project) update-submodules.sh"
-			,"cmd": [ "${project_path:${folder}}/update-submodules.sh" ]
-			,"working_dir": "${project_path:${folder}}"
-			,"shell": true
-		}
-	]
+	}
 }

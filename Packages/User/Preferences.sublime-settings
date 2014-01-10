@@ -5,14 +5,17 @@
 	 "caret_style": "phase"
 	,"highlight_modified_tabs": true
 	,"margin": 0
+	,"show_encoding": true
+	,"show_line_endings": true
 
 	// Theme
 	,"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
 	,"theme": "Spacegray.sublime-theme"
-	,"bold_folder_labels": true
-	,"overlay_scroll_bars": "enabled"
 	,"line_padding_top": 1
 	,"line_padding_bottom": 1
+	,"caret_extra_top": 1
+	,"caret_extra_bottom": 1
+	,"caret_extra_width": 1
 
 	// Behavior
 	,"auto_complete_delay": 100
@@ -20,7 +23,6 @@
 	,"default_line_ending": "unix"
 
 	,"ignored_packages": [
-		 "Vintage"
-		,"Package Control"
+		"Vintage"
 	]
 }

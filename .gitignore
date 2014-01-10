@@ -3,6 +3,4 @@
 *.sublime-workspace
 *.last-run
 
-Backup/
-Pristine Packages/
-Settings/
+/Local/

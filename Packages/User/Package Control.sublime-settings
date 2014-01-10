@@ -1,11 +1,16 @@
 {
-	"auto_upgrade_frequency": 24,
 	"installed_packages":
 	[
 		"Alignment",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"Emmet",
+		"Git",
+		"JsFormat",
 		"Nettuts+ Fetch",
-		"Package Control",
 		"PHP-Twig",
+		"Tag",
+		"Theme - Spacegray",
 		"VBScript"
 	]
 }
