@@ -23,7 +23,7 @@
 	-	[JsFormat](https://github.com/jdc0589/JsFormat)
 	-	[LESS-build](https://github.com/sirlancelot/LESS-build-sublime)
 	-	[Tag](https://github.com/SublimeText/Tag)
-	-	[Theme - Centurion](https://github.com/allanhortle/Centurion)
+	-	[Theme - Spacegray](https://github.com/kkga/spacegray)
 
 ## Updating Packages
 

@@ -19,6 +19,6 @@
 [submodule "Packages/Emmet"]
 	path = Packages/Emmet
 	url = https://github.com/sergeche/emmet-sublime
-[submodule "Packages/Theme - Centurion"]
-	path = Packages/Theme - Centurion
-	url = https://github.com/allanhortle/Centurion
+[submodule "Packages/Theme - Spacegray"]
+	path = Packages/Theme - Spacegray
+	url = https://github.com/kkga/spacegray
