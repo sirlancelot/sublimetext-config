@@ -1,0 +1,6 @@
+*.cache
+*.pyc
+*.sublime-workspace
+*.last-run
+
+/Local/
