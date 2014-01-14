@@ -4,9 +4,6 @@
 [submodule "Packages/JsFormat"]
 	path = Packages/JsFormat
 	url = https://github.com/jdc0589/JsFormat
-[submodule "Packages/LESS-build"]
-	path = Packages/LESS-build
-	url = https://github.com/sirlancelot/LESS-build-sublime
 [submodule "Packages/ApacheConf"]
 	path = Packages/ApacheConf
 	url = https://github.com/colinta/ApacheConf.tmLanguage
@@ -22,3 +19,6 @@
 [submodule "Packages/Theme - Spacegray"]
 	path = Packages/Theme - Spacegray
 	url = https://github.com/kkga/spacegray
+[submodule "Packages/LESS"]
+	path = Packages/LESS
+	url = https://github.com/danro/LESS-sublime
