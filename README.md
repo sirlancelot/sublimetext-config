@@ -3,11 +3,12 @@
 -	**via Package Control**
 
 	I'm using [Package Control][] to add packages that don't have a Git 
-	Repository.
+	Repository or those I that don't have any contributions to.
 
 	-	[Alignment][]
 	-	[Nettuts+ Fetch][Fetch]
 	-	[PHP-Twig][]
+	-	[Puppet][]
 	-	[VBScript][]
 
 -	**via Git Submodules**
@@ -41,4 +42,5 @@ out the "Package Control" line and save. Sublime will load it automatically.
   [Alignment]: http://wbond.net/sublime_packages/alignment
   [Fetch]: http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/
   [PHP-Twig]: https://sublime.wbond.net/packages/PHP-Twig
+  [Puppet]: https://sublime.wbond.net/packages/Puppet
   [VBScript]: https://sublime.wbond.net/packages/VBScript
