@@ -18,8 +18,5 @@
 	,"ensure_newline_at_eof_on_save": true
 	,"default_line_ending": "unix"
 
-	,"ignored_packages": [
-		 "Vintage"
-		,"Package Control"
-	]
+	,"ignored_packages": []
 }
