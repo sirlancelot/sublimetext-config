@@ -5,6 +5,8 @@
 		"xsd",
 		"xslt",
 		"svg",
-		"config"
+		"config",
+		"vbproj",
+		"csproj"
 	]
 }
