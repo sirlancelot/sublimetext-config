@@ -10,9 +10,6 @@
 [submodule "Packages/AutoFileName"]
 	path = Packages/AutoFileName
 	url = https://github.com/BoundInCode/AutoFileName
-[submodule "Packages/Tag"]
-	path = Packages/Tag
-	url = https://github.com/SublimeText/Tag
 [submodule "Packages/Emmet"]
 	path = Packages/Emmet
 	url = https://github.com/sergeche/emmet-sublime

@@ -23,7 +23,6 @@
 	-	[Git](https://github.com/kemayo/sublime-text-2-git)
 	-	[JsFormat](https://github.com/jdc0589/JsFormat)
 	-	[LESS-sublime](https://github.com/danro/LESS-sublime)
-	-	[Tag](https://github.com/SublimeText/Tag)
 	-	[Theme - Spacegray](https://github.com/kkga/spacegray)
 
 ## Updating Packages
