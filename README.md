@@ -6,10 +6,15 @@
 	Repository or those I that don't have any contributions to.
 
 	-	[Alignment][]
-	-	[Nettuts+ Fetch][Fetch]
+	-	[LiveReload][]
+	-	[Modific][]
+	-	[Nettuts+ Fetch][]
 	-	[PHP-Twig][]
 	-	[Puppet][]
+	-	[Razor][]
+	-	[Sass][]
 	-	[VBScript][]
+	-	[Wrap Plus][]
 
 -	**via Git Submodules**
 
@@ -37,9 +42,14 @@ I've disabled the [Package Control] plugin by default because it slows down
 Sublime. Just open up `Packages/User/Preferences.sublime-settings`, comment 
 out the "Package Control" line and save. Sublime will load it automatically.
 
-  [Package Control]: http://wbond.net/sublime_packages/package_control
-  [Alignment]: http://wbond.net/sublime_packages/alignment
-  [Fetch]: http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/
+  [Alignment]: https://wbond.net/sublime_packages/alignment
+  [LiveReload]: https://sublime.wbond.net/packages/LiveReload
+  [Modific]: https://sublime.wbond.net/packages/Modific
+  [Nettuts+ Fetch]: http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/
+  [Package Control]: https://wbond.net/sublime_packages/package_control
   [PHP-Twig]: https://sublime.wbond.net/packages/PHP-Twig
   [Puppet]: https://sublime.wbond.net/packages/Puppet
+  [Razor]: https://sublime.wbond.net/packages/Razor
+  [Sass]: https://sublime.wbond.net/packages/Sass
   [VBScript]: https://sublime.wbond.net/packages/VBScript
+  [Wrap Plus]: https://sublime.wbond.net/packages/Wrap%20Plus

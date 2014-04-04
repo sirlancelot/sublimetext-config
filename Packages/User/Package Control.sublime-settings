@@ -3,10 +3,15 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"LiveReload",
+		"Modific",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PHP-Twig",
 		"Puppet",
-		"VBScript"
+		"Razor",
+		"Sass",
+		"VBScript",
+		"Wrap Plus"
 	]
 }

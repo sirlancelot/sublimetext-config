@@ -1,10 +1,15 @@
 # Don't track Package Control Packages
 /Alignment/
+/LiveReload/
+/Modific/
 /Nettuts+ Fetch/
 /Package Control/
 /PHP-Twig/
 /Puppet/
+/Razor/
+/Sass/
 /VBScript/
+/Wrap Plus/
 
 # PyV8 Package is controlled by Emmet
 /PyV8/
