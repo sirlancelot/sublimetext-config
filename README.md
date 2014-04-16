@@ -8,6 +8,7 @@
 	-	[Alignment][]
 	-	[LiveReload][]
 	-	[Modific][]
+	-	[MSBuild][]
 	-	[Nettuts+ Fetch][]
 	-	[PHP-Twig][]
 	-	[Puppet][]
@@ -45,6 +46,7 @@ out the "Package Control" line and save. Sublime will load it automatically.
   [Alignment]: https://wbond.net/sublime_packages/alignment
   [LiveReload]: https://sublime.wbond.net/packages/LiveReload
   [Modific]: https://sublime.wbond.net/packages/Modific
+  [MSBuild]: https://sublime.wbond.net/packages/MSBuild
   [Nettuts+ Fetch]: http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/
   [Package Control]: https://wbond.net/sublime_packages/package_control
   [PHP-Twig]: https://sublime.wbond.net/packages/PHP-Twig
