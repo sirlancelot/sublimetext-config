@@ -4,47 +4,76 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Sublime Text Configuration by sirlancelot</title>
-
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="javascripts/scale.fix.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
   </head>
   <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/sirlancelot/sublimetext-config">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/sirlancelot/sublimetext-config/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/sirlancelot/sublimetext-config/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
+
     <div class="wrapper">
-      <header>
-        <h1>Sublime Text Configuration</h1>
-        <p>The Obligatory.</p>
-        <p class="view"><a href="https://github.com/sirlancelot/sublimetext-config">View the Project on GitHub <small>sirlancelot/sublimetext-config</small></a></p>
-        <ul>
-          <li><a href="https://github.com/sirlancelot/sublimetext-config/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/sirlancelot/sublimetext-config/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/sirlancelot/sublimetext-config">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
+
       <section>
+        <div id="title">
+          <h1>Sublime Text Configuration</h1>
+          <p>The Obligatory.</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/sirlancelot">sirlancelot</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
         <h2>
-<a name="installed-packages" class="anchor" href="#installed-packages"><span class="octicon octicon-link"></span></a>Installed Packages</h2>
+<a id="installed-packages" class="anchor" href="#installed-packages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installed Packages</h2>
 
 <ul>
 <li>
 <p><strong>via Package Control</strong></p>
 
-<p>I'm using <a href="http://wbond.net/sublime_packages/package_control">Package Control</a> to add packages that don't have a Git 
-Repository.</p>
+<p>I'm using <a href="https://wbond.net/sublime_packages/package_control">Package Control</a> to add packages that don't have a Git 
+Repository or those I that don't have any contributions to.</p>
 
 <ul>
-<li>  <a href="http://wbond.net/sublime_packages/alignment">Alignment</a>
+<li>  <a href="https://wbond.net/sublime_packages/alignment">Alignment</a>
+</li>
+<li>  <a href="https://packagecontrol.io/packages/Jade">Jade</a>
+</li>
+<li>  <a href="https://packagecontrol.io/packages/JSHint">JSHint</a>
+</li>
+<li>  <a href="https://sublime.wbond.net/packages/Modific">Modific</a>
+</li>
+<li>  <a href="https://sublime.wbond.net/packages/MSBuild">MSBuild</a>
 </li>
 <li>  <a href="http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/">Nettuts+ Fetch</a>
 </li>
 <li>  <a href="https://sublime.wbond.net/packages/PHP-Twig">PHP-Twig</a>
 </li>
+<li>  <a href="https://sublime.wbond.net/packages/Puppet">Puppet</a>
+</li>
+<li>  <a href="https://sublime.wbond.net/packages/Razor">Razor</a>
+</li>
+<li>  <a href="https://sublime.wbond.net/packages/Sass">Sass</a>
+</li>
+<li>  <a href="https://packagecontrol.io/packages/SublimeCodeIntel">SublimeCodeIntel</a>
+</li>
 <li>  <a href="https://sublime.wbond.net/packages/VBScript">VBScript</a>
+</li>
+<li>  <a href="https://sublime.wbond.net/packages/Wrap%20Plus">Wrap Plus</a>
 </li>
 </ul>
 </li>
@@ -66,33 +95,30 @@ being lost on an update.</p>
 </li>
 <li>  <a href="https://github.com/jdc0589/JsFormat">JsFormat</a>
 </li>
-<li>  <a href="https://github.com/sirlancelot/LESS-build-sublime">LESS-build</a>
-</li>
-<li>  <a href="https://github.com/SublimeText/Tag">Tag</a>
+<li>  <a href="https://github.com/danro/LESS-sublime">LESS-sublime</a>
 </li>
 <li>  <a href="https://github.com/kkga/spacegray">Theme - Spacegray</a>
 </li>
 </ul>
 </li>
-</ul><h2>
-<a name="updating-packages" class="anchor" href="#updating-packages"><span class="octicon octicon-link"></span></a>Updating Packages</h2>
+</ul>
+
+<h2>
+<a id="updating-packages" class="anchor" href="#updating-packages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Updating Packages</h2>
 
 <p>Package Control Packages are automatically updated when you enable the plugin. 
 Git Packages can be updated using <code>update-submodules.sh</code> which will bring each 
 repository up-to-date with the master branch of the origin repository.</p>
 
 <h2>
-<a name="enable-package-control" class="anchor" href="#enable-package-control"><span class="octicon octicon-link"></span></a>Enable Package Control</h2>
+<a id="enable-package-control" class="anchor" href="#enable-package-control" aria-hidden="true"><span class="octicon octicon-link"></span></a>Enable Package Control</h2>
 
-<p>I've disabled the <a href="http://wbond.net/sublime_packages/package_control">Package Control</a> plugin by default because it slows down 
+<p>I've disabled the <a href="https://wbond.net/sublime_packages/package_control">Package Control</a> plugin by default because it slows down 
 Sublime. Just open up <code>Packages/User/Preferences.sublime-settings</code>, comment 
 out the "Package Control" line and save. Sublime will load it automatically.</p>
       </section>
+
     </div>
-    <footer>
-      <p>Project maintained by <a href="https://github.com/sirlancelot">sirlancelot</a></p>
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
-    </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
