@@ -17,3 +17,9 @@
 
 # PyV8 Package is controlled by Emmet
 /PyV8/
+
+# Platform-specific packages managed by Package Control
+/0_package_control_loader/
+/bz2/
+/select-windows/
+/ssl-windows/
