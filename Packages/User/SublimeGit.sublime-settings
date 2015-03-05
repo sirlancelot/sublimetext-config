@@ -1,0 +1,8 @@
+{
+	"git_update_status_on_focus": false,
+	"git_commit_verbose": true,
+	"git_extensions": {
+		"git_flow": false,
+		"legit": false
+	}
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "caption": "Git: Graph Log",
+        "command": "git_custom",
+        "args": {
+            "cmd": "log --graph --oneline",
+            "output": "view",
+            "async": true
+        }
+    },
+    {
+        "caption": "Git: SVN DCommit",
+        "command": "git_custom",
+        "args": {
+            "cmd": "svn dcommit",
+            "output": "view",
+            "async": true
+        }
+    },
+    {
+        "caption": "Git: SVN Fetch",
+        "command": "git_custom",
+        "args": {
+            "cmd": "svn fetch",
+            "output": "view",
+            "async": true
+        }
+    }
+]

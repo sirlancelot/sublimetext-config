@@ -1,6 +1,8 @@
 # Don't track Package Control Packages
 /Alignment/
-/LiveReload/
+/Git/
+/Jade/
+/JSHint/
 /Modific/
 /MSBuild/
 /Nettuts+ Fetch/
@@ -9,6 +11,7 @@
 /Puppet/
 /Razor/
 /Sass/
+/SublimeCodeIntel/
 /VBScript/
 /Wrap Plus/
 

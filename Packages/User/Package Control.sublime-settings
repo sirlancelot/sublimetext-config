@@ -1,9 +1,14 @@
 {
 	"auto_upgrade_frequency": 24,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
-		"LiveReload",
+		"Git",
+		"Jade",
+		"JSHint",
 		"Modific",
 		"MSBuild",
 		"Nettuts+ Fetch",
@@ -12,6 +17,7 @@
 		"Puppet",
 		"Razor",
 		"Sass",
+		"SublimeCodeIntel",
 		"VBScript",
 		"Wrap Plus"
 	]
