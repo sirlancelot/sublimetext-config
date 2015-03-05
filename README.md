@@ -6,7 +6,8 @@
 	Repository or those I that don't have any contributions to.
 
 	-	[Alignment][]
-	-	[LiveReload][]
+	-	[Jade][]
+	-	[JSHint][]
 	-	[Modific][]
 	-	[MSBuild][]
 	-	[Nettuts+ Fetch][]
@@ -14,6 +15,7 @@
 	-	[Puppet][]
 	-	[Razor][]
 	-	[Sass][]
+	-	[SublimeCodeIntel][]
 	-	[VBScript][]
 	-	[Wrap Plus][]
 
@@ -44,7 +46,8 @@ Sublime. Just open up `Packages/User/Preferences.sublime-settings`, comment
 out the "Package Control" line and save. Sublime will load it automatically.
 
   [Alignment]: https://wbond.net/sublime_packages/alignment
-  [LiveReload]: https://sublime.wbond.net/packages/LiveReload
+  [Jade]: https://packagecontrol.io/packages/Jade
+  [JSHint]: https://packagecontrol.io/packages/JSHint
   [Modific]: https://sublime.wbond.net/packages/Modific
   [MSBuild]: https://sublime.wbond.net/packages/MSBuild
   [Nettuts+ Fetch]: http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/
@@ -53,5 +56,6 @@ out the "Package Control" line and save. Sublime will load it automatically.
   [Puppet]: https://sublime.wbond.net/packages/Puppet
   [Razor]: https://sublime.wbond.net/packages/Razor
   [Sass]: https://sublime.wbond.net/packages/Sass
+  [SublimeCodeIntel]: https://packagecontrol.io/packages/SublimeCodeIntel
   [VBScript]: https://sublime.wbond.net/packages/VBScript
   [Wrap Plus]: https://sublime.wbond.net/packages/Wrap%20Plus
