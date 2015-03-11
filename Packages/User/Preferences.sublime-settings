@@ -2,25 +2,32 @@
 // are overridden in turn by file type specific settings.
 {
 	// Editing Visuals
-	 "caret_style": "phase"
-	,"highlight_modified_tabs": true
-	,"margin": 0
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 0,
 
 	// Dark Theme
-	,"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
-	,"theme": "Spacegray.sublime-theme"
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"theme": "Spacegray.sublime-theme",
 	// Light Theme
-	// ,"color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
-	// ,"theme": "Spacegray Light.sublime-theme"
-
-	,"bold_folder_labels": true
-	,"line_padding_top": 1
-	,"line_padding_bottom": 1
+	// "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
+	// "theme": "Spacegray Light.sublime-theme",
 
 	// Behavior
-	,"auto_complete_delay": 100
-	,"ensure_newline_at_eof_on_save": true
-	,"default_line_ending": "unix"
+	"auto_complete_delay": 100,
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"ignored_packages": [
+		"Package Control"
+	],
 
-	,"ignored_packages": []
+	// These files will still show up in the side bar, but won't be included in
+	// Goto Anything or Find in Files
+	"binary_file_patterns": [
+		".git/*",
+		"node_modules/*"
+	]
 }
