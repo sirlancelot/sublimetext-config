@@ -19,3 +19,7 @@
 [submodule "Packages/LESS"]
 	path = Packages/LESS
 	url = https://github.com/danro/LESS-sublime
+[submodule "Packages/ZenTabs"]
+	path = Packages/ZenTabs
+	url = https://github.com/travmik/ZenTabs
+	branch = master

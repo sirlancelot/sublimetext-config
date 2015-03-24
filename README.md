@@ -32,6 +32,7 @@
 	-	[JsFormat](https://github.com/jdc0589/JsFormat)
 	-	[LESS-sublime](https://github.com/danro/LESS-sublime)
 	-	[Theme - Spacegray](https://github.com/kkga/spacegray)
+	-	[ZenTabs](https://github.com/travmik/ZenTabs)
 
 ## Updating Packages
 
