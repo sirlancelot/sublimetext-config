@@ -1,5 +1,8 @@
 [
 	{ "keys": ["alt+f9"], "command": "permute_lines", "args": {"operation": "unique"} },
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
 
 	// Split-window placement keys
 	{

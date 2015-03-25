@@ -1,4 +1,8 @@
 {
+	"auto_upgrade_frequency": 24,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -6,11 +10,21 @@
 		"AutoFileName",
 		"Emmet",
 		"Git",
+		"Jade",
 		"JsFormat",
+		"JSHint",
+		"Modific",
+		"MSBuild",
 		"Nettuts+ Fetch",
 		"PHP-Twig",
+		"Puppet",
+		"Razor",
+		"Sass",
+		"SublimeCodeIntel",
 		"Tag",
 		"Theme - Spacegray",
 		"VBScript"
+		"VBScript",
+		"Wrap Plus"
 	]
 }
