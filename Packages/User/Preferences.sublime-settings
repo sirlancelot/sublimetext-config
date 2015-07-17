@@ -1,6 +1,9 @@
 // Settings in here override those in "Default/Preferences.sublime-settings", and
 // are overridden in turn by file type specific settings.
 {
+	// SublimeCodeIntel is still kinda slow.
+	"detect_slow_plugins": false,
+
 	// Editing Visuals
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,

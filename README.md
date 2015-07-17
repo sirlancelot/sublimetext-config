@@ -12,6 +12,7 @@ I'm using [Package Control][] to add and keep plugins up-to-date.
   - [PHP-Twig](https://sublime.wbond.net/packages/PHP-Twig)
   - [Tag](https://github.com/SublimeText/Tag)
   - [Theme - Spacegray](https://github.com/kkga/spacegray)
+  - [VBDotNet][https://packagecontrol.io/packages/VBDotNet]
   - [VBScript](https://sublime.wbond.net/packages/VBScript)
 
 Nothing too exciting yet.
