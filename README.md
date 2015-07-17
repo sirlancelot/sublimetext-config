@@ -16,6 +16,7 @@
 	-	[Razor][]
 	-	[Sass][]
 	-	[SublimeCodeIntel][]
+	-	[VBDotNet][]
 	-	[VBScript][]
 	-	[Wrap Plus][]
 
@@ -58,5 +59,6 @@ out the "Package Control" line and save. Sublime will load it automatically.
   [Razor]: https://sublime.wbond.net/packages/Razor
   [Sass]: https://sublime.wbond.net/packages/Sass
   [SublimeCodeIntel]: https://packagecontrol.io/packages/SublimeCodeIntel
+  [VBDotNet]: https://packagecontrol.io/packages/VBDotNet
   [VBScript]: https://sublime.wbond.net/packages/VBScript
   [Wrap Plus]: https://sublime.wbond.net/packages/Wrap%20Plus
